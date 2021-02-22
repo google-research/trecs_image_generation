@@ -79,3 +79,7 @@ If you find this work useful, please consider citing:
 We also suggest citing the paper for the
 [Localized Narratives](https://google.github.io/localized-narratives/) dataset.
 The Localized Narratives dataset is licensed under CC-BY 4.0.
+
+## Disclaimer
+
+Not an official Google product.

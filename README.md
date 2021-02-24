@@ -57,7 +57,7 @@ in `train_coco.ids.txt` is the ID for the first sentence in
 
 ## TReCS Generated Images
 
-Our generated images can be downloaded [here](). We generate an image using the
+Our generated images for the MS-COCO and OpenImages validation sets can be downloaded [here](http://storage.googleapis.com/gresearch/trecs-image-generation/trecs_images.tar). We generate an image using the
 TReCS model for each item in the Localized Narratives MS-COCO validation set.
 The naming convention for the images is in the format
 `{image_id}_{annotator_id}.png`, where `image_id` and `annotator_id` are values
